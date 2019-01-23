@@ -12,7 +12,7 @@ cd [path to your eclipse workspace]
 git clone https://github.com/bressan3/bvr.git
 ```
 
-2. Open Eclise (OSATE2 preferably)
+2. Open Eclipse (OSATE2 preferably)
 3. Go to `File -> Open Projects from File System...`
 4. Select the cloned bvr folder
 5. Select all the folders that will show up on the list except the `bvr` folder
